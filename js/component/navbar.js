@@ -3,7 +3,7 @@ window.document.write(`
         <div class="container">
             <a class="navbar-brand d-flex align-items-center" href="/">
                 <img src="./img/web.png" height="40" width="auto">
-                <span class="ml-3 text-dark">Web Developer & ML enthusiast</span>
+                <span class="ml-3 text-dark">Shreyas Sukhadeve</span>
             </a>
             <div class="d-flex align-items-center">
                 <a href="mailto:20cs01056@iitbbs.ac.in" class="text-dark" target="_blank">

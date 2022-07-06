@@ -12,7 +12,6 @@ window.document.write(`
                     <div class="icon mb-2">
                         <img src="./images/map.jpg" height="200" width="300" class="center">
                     </div>
-                    
                 </div>
             </div>
 
