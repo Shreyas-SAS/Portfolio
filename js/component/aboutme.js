@@ -21,7 +21,7 @@ window.document.write(`
                     
                     <h4 class="text-decoration-none">Internet?</h4>
                     <p class="mt-4">
-                    I was Born in Nagpur,Maharashtra in 2002, Lived a perfectly normal life with a fascination towards creation of games and websites on internet. Well, I had very limited internet access in the initial days until Jio launced its sim. </p>
+                    I was Born in Nagpur,Maharashtra in 2002, Lived a perfectly normal life with a fascination towards creation of games and websites on internet. Well, I had a very limited internet access in the initial days until Jio launced its sim in late 2016. </p>
                 </div>
             </div>
 
@@ -32,7 +32,7 @@ window.document.write(`
                     
                     <h4 class="text-decoration-none">JEE preperation!</h4>
                     <p class="mt-4">
-                    I spent my childhood well and invested my class 9th and 10th towards a foundation for JEE preparation, Attended Coaching for 2 years for JEE Advanced preparation. Experienced ups and down but finaly got into an IIT with CSE Branch. </p>
+                    I spent my childhood well and invested my class 9th and 10th towards a foundational course for IIT JEE preparation, Attended Coaching for next 2 years for JEE Advanced preparation. Experienced ups and down but finaly got into an IIT with CSE Branch. </p>
                 </div>
             </div>
 
@@ -61,7 +61,7 @@ window.document.write(`
                     
                     <h4 class="text-decoration-none">Web - First Encounter!</h4>
                     <p class="mt-4">
-                    I was introduced to coding via web development after my JEE advanced test via Youtube and initially started with Web Development, got stuck at Javascript and didn't have any guidance. Finally Dropped the idea of web development.</p>
+                    I was introduced to coding through web development after my JEE advanced test via Youtube and initially started with Web Development, got stuck at Javascript and didn't have any guidance. Ended up dropping the idea of Web Development just to find my love with it later in life.</p>
                 </div>
             </div>
 
@@ -101,7 +101,7 @@ window.document.write(`
                     
                     <h4 class="text-decoration-none">"WEB" & "Machine Learning"</h4>
                     <p class="mt-4">
-                    Explored the world of machine learning in my 3rd and 4th semester and revisited my lost friend Web Development with a new energy and aim in mind. Made sure to finish Full MERN Stack before 4th semester ends.</p>
+                    Explored the world of Machine Learning in my 3rd and 4th semester and revisited my lost love -  Web Development with a new energy and aim in mind. Made sure to finish Full MERN Stack before 4th semester ends so that I could try some internships.</p>
                 </div>
             </div>
 
@@ -141,7 +141,7 @@ window.document.write(`
                     
                     <h4 class="text-decoration-none">Full Stack Rush!</h4>
                     <p class="mt-4">
-                    Tried to get a good Web Development Internship to grow my understanding in a realtime environment, failed 2 interviews but didn't give up. Got 2 full stack internship offers from startups with flexible times in WFH environment. Chose to work hard and pursue both the offers.</p>
+                    Tried to get a good Web Development Internship to grow my understanding in a realtime environment, failed 2 interviews due to low experience but didn't give up. Got 2 Full-Stack internship offers from startups with flexible times in WFH environment. Chose to work hard and pursue both the offers.</p>
                 </div>
             </div>
 
