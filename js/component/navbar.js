@@ -2,7 +2,7 @@ window.document.write(`
     <nav class="navbar navbar-expand-lg static-top shadow bg-white sticky-top" data-aos="fade-in">
         <div class="container">
             <a class="navbar-brand d-flex align-items-center" href="/">
-                <img src="./img/web.png" height="40" width="auto">
+                <img src="./images/web.png" height="40" width="auto">
                 <span class="ml-3 text-dark">Shreyas Sukhadeve</span>
             </a>
             <div class="d-flex align-items-center">
